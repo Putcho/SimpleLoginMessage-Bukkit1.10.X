@@ -1,0 +1,11 @@
+# $p -> Login player name
+public:
+  enabled: true
+  visibleDefault: false
+  messages:
+    - Hey $p !
+private:
+  enabled: true
+  messages:
+    - Thanks for coming:)
+    - Let's enjoy!!!!!!

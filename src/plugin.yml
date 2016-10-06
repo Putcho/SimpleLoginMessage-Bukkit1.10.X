@@ -1,0 +1,3 @@
+name: Simple Login Message
+main: net.putcho.bukkit.simpleloginmessage.SimpleLoginMessage
+version: 1.0
